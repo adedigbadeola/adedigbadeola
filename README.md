@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @adedigbadeola
-- 👀 I’m interested in data science ana A.I
-- 🌱 I’m currently a UI/UX designer 
-- 💞️ I’m looking to collaborate with other data scientist and A.I experts as well learn as much as I can from them.
 - 📫 You can reach me via email... adedigbadeola@gmail.com 
 
 <!---
